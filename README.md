@@ -2,7 +2,7 @@ Hi 👋 My name is Mo
 ===================
 
 Roboticist in Pursuit of Solving Hard Problems
-<img src="https://github.com/robonafisi/github-banner/blob/main/banner.png?raw=true"<img 
+<img src="https://github.com/robonafisi/github-banner/blob/main/banner.png?raw=true" width="36" height="36" alt="Google Cloud" />
 ----------------------------------------------
 
 👀 I’m interested in: Manufacturing, Robotics, Reinforcement Learning, and Vehicle Autonomy.
