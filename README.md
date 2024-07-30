@@ -6,7 +6,7 @@
 * 🌍  I'm based in San Francisco
 * ✉️  You can contact me at [nafisidev@gmail.com](mailto:nafisidev@gmail.com)
 * 🚀  I'm currently working on [Cavalla](http://www.cavalla.io/)
-* 🧠  I'm learning GPU architecture design and microprocessor circuits
+* 🧠  I'm learning robotics imitation learning and GPU architecture design
 * 🤝  I'm open to collaborating on OpenSource robotics tools
 
 ### Skills
